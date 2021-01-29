@@ -8,6 +8,6 @@ add `C:/Program Files/kvs/` to the `PATH`
 #### Or
 compile from `src` with `cargo build --release`
 
-#Usage:
+# Usage:
 to get a value -> `kvs key`\
 to set a pair -> `kvs key value`
