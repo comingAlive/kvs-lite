@@ -2,7 +2,7 @@
 CLI .txt-based key-value store.
 
 # Installation:
-copy `kvs` folder to `C:/Program Files/` or other direction.\
+**Windows**: copy `kvs` folder to `C:/Program Files/` or other direction.\
 add `C:/Program Files/kvs/` to the `PATH`
 
 #### Or
