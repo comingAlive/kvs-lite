@@ -3,12 +3,12 @@ CLI .txt-based key-value store.
 
 # Installation:
 **Windows**:\
-copy `kvs` folder to `C:/Program Files/` or other direction.\
-add `C:/Program Files/kvs/` to the `PATH`
+Copy `kvs` folder to `C:/Program Files/` or other direction.\
+Add `C:/Program Files/kvs/` to the `PATH`
 
 #### Or
-compile from `src` with `cargo build --release`
+Compile from `src` with `cargo build --release`
 
 # Usage:
-to get a value -> `kvs key`\
-to set a pair -> `kvs key value`
+To get a value -> `kvs key`\
+To set a pair -> `kvs key value`
